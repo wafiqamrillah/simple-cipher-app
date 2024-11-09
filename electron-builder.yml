@@ -1,0 +1,12 @@
+appId: id.wafiqamrillah.simple-cipher
+productName: Simple Cipher Application
+copyright: Copyright © 2024 Ahmad Wafiq Amrillah
+directories:
+  output: dist
+  buildResources: resources
+files:
+  - from: .
+    filter:
+      - package.json
+      - app
+publish: null
